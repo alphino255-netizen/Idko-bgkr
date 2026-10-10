@@ -10,7 +10,7 @@
  *   TELEGRAM_CHAT_ID   - chat ID tujuan notif
  */
 
-const ALLOWED_ORIGINS = ['https://neoparty.web.id', 'https://indokar.vercel.app'];
+const ALLOWED_ORIGINS = ['https://neoparty.web.id', 'https://indokar.vercel.app', 'https://indokoinstore.shop', 'https://cuan.indokoinstore.shop'];
 
 function cors(req, res) {
   const origin = req.headers.origin || '';
