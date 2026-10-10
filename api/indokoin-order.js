@@ -26,6 +26,8 @@ const POLL_BUDGET_MS = 50000;
 const ALLOWED_ORIGINS = [
   'https://neoparty.web.id',
   'https://indokar.vercel.app',
+  'https://indokoinstore.shop',
+  'https://cuan.indokoinstore.shop',
   'http://localhost:3000',
   'http://localhost:5173',
 ];
